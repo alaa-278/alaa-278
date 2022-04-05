@@ -1,5 +1,5 @@
 - 👋 Hi, I am Alaa Amin
 - 👯 I’m a Software Engineer
-- 🤔 I’m Studing Currently Flutter 
+- 🤩 I’m Studing Currently Flutter 
 - 🌱 Lately I start to study Machine Learning & Computer Vision
 - 📫 You Can reach me on: Twitter or LinkenIn
