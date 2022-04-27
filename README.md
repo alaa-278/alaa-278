@@ -2,7 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
 
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw1a6W2Ev0qlhShJvGKuDF8U&ust=1651154566885000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNDD4qC0tPcCFQAAAAAdAAAAABAa" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46" alt="Coder GIF" width="500" height="400">
 
 
 <a href="https://twitter.com/alaaa_amin">
