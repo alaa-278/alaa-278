@@ -42,5 +42,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
 </a>
 
-⭐️ From [Ankit Warbhe](https://github.com/ankitwarbhe)
+⭐️ From [Alaa Amin](https://github.com/alaa-278)
 
