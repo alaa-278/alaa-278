@@ -2,7 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
 
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
  <a href="https://www.facebook.com/alaa.amin.9066/">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alaa's Facebook" width="26"/>
