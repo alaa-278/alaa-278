@@ -22,7 +22,7 @@
 - :telescope: I'm currently studying Computer Science for 3 Years💻;
 - :hourglass_flowing_sand: Currently Learning Flutter and Start learning ML ;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
+- :man_technologist: Also I am very intersted in Designing ♥️; 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
 - 📫 How to reach me: alaaaminwasfy@gmail.com;
 - 📝[Resume](https://ankitwarbhe.github.io/cdn/about/Ankit-warbhe-cv.pdf) <br>
