@@ -9,7 +9,7 @@
   <img align="left" alt="Alaa Amin | Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
 </a>
 <a href="https://www.linkedin.com/in/alaa-amin-4ba0a31b3/">
-  <img align="left" alt="Alaa's LinkdeIN" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png br" />
+  <img align="left" alt="Alaa's LinkdeIN" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
 </a>
 
 
