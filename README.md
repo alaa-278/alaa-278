@@ -12,7 +12,7 @@
   <img align="left" alt="Alaa's LinkdeIN" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
 </a>
 <a href="https://www.instagram.com/alaa__lolitt/">
-  <img align="left" alt="Alaa's Instagram" width="22px" src="https://www.pngitem.com/pimgs/m/82-821814_transparent-ig-png-blue-instagram-icon-png-png.png" /><br/>
+  <img align="left" alt="Alaa's Instagram" width="22px" src="https://images.squarespace-cdn.com/content/v1/5368ed03e4b0d959391a6948/1531576542030-GPJFPLPAKF3RNUP81ECB/blue+instagram+icon.png" /><br/>
 </a>
 
 
