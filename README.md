@@ -6,7 +6,7 @@
 
 
 <a href="https://twitter.com/alaaa_amin">
-  <img align="left" alt="Alaa Amin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Alaa Amin | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwHVN3G3r-6u9WAcA9GFhAwykDogR33XJyjC5nUlP9sFRF9PFHMB4RRV3iIQFEM2PLLeY&usqp=CAU" />
 </a>
 <a href="https://www.linkedin.com/in/alaa-amin-4ba0a31b3/">
   <img align="left" alt="Alaa's LinkdeIN" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
