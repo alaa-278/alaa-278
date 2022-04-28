@@ -9,7 +9,7 @@
   <img align="left" alt="Alaa Amin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alaa-amin-4ba0a31b3/">
-  <img align="left" alt="Alaa's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Alaa's LinkdeIN" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
 </a>
 <a href="https://www.instagram.com/alaa__lolitt/">
   <img align="left" alt="Alaa's Instagram" width="22px" src="https://www.pngitem.com/pimgs/m/82-821814_transparent-ig-png-blue-instagram-icon-png-png.png" /><br/>
