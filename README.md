@@ -11,10 +11,6 @@
 <a href="https://www.linkedin.com/in/alaa-amin-4ba0a31b3/">
   <img align="left" alt="Alaa's LinkdeIN" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
 </a>
-<a href="https://www.instagram.com/alaa__lolitt/">
-  <img align="left" alt="Alaa's Instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIgQfKLwHZfMzT4ptlQScXtXNKCd-oDZbBluhme_jmQff4QWHfzy2MkcubUiImmxJZ9w&usqp=CAU" /><br/>
-</a>
-
 
 
 
